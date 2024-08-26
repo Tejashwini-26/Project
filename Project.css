@@ -1,0 +1,189 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#333
+}
+/* nav{
+    padding: 15px;
+}
+.nav-links{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.nav-links li{
+    margin: 0 15px;
+}
+.nav-links a{
+    text-decoration: none;
+    color:#ffc107;
+    font-size: 18px;
+    font-weight: bold;
+} */
+.home{
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ffc107;
+    padding: 10px;
+    text-align: center;
+    gap: 10px;
+    color: whitesmoke;
+    float: left;
+    margin-top: 20px;
+}
+.about-us{
+    border-radius: 50%;
+    background-color: #ffc107;
+    padding: 10px;
+    text-align: center;
+    gap: 10px;
+}
+.featured{
+    border-radius: 50%;
+    background-color: #ffc107;
+    padding: 10px;
+    text-align: center; 
+    gap: 10px;
+}
+.projects{
+    border-radius: 50%;
+    background-color: #ffc107;
+    padding: 10px;
+    text-align: center;
+    gap: 10px;
+}
+.contact-us{
+    border-radius: 50%;
+    background-color: #ffc107;
+    padding: 10px;
+    text-align: center;
+    gap: 10px;
+}
+.home,.about-us,.featured,.projects,.contact-us{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.first_division{
+    background-image: url(./prove-bg\ \(2\).png);
+    height: 450px;
+}
+/* .container{
+    border: 5px solid black;
+} */
+.laptop{
+    margin-left: 0px;
+    width: 800px;
+    height: 400px;
+    /* margin-top: -60px;
+    border-top: 5px solid #ffc107; */
+}
+.second_division{
+    margin-top: -60px;
+    border-top: 10px solid #ffc107;
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+   
+}
+
+.group_division{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.h1,.p1,.button1{
+    margin-left: 830px;
+    font-size: 25px;
+}
+.h1{
+    margin-top: -330px;
+}
+.button1{
+    background-color: #ffc107;
+    padding: 8px 8px 8px 8px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+}
+.h2,.p2,.button2{
+    margin-left: 60px;
+    font-size: 20px;
+    width: 40%;
+}
+.girl{
+    margin-left: 830px;
+    margin-top: -268px;
+    width: 640px;
+    height: 320px ;
+}
+.button2{
+    background-color: #ffc107;
+    padding: 8px 8px 8px 8px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+}
+.h2{
+    font-size: 25px; 
+}
+.forth_division{
+    background-color: #ffc107;
+    height: 50px;
+}
+.fifth_division{
+    background-image: url(./prove-bg\ \(2\).png);
+    height: 450px;
+}
+.sixth_division{
+    margin-top: -60px;
+    border-top: 10px solid #ffc107;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 30px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.img{
+    height: 250px;
+    width: 340px;
+    margin-left: 15px;
+}
+#img1,#img5{
+    margin-left: 20px;
+}
+.seventh_division{
+    background-color: #ffc107;
+    height: 50px;
+}
+/* <style>
+        
+        body{
+            margin: 0;
+        }
+        *{
+            box-sizing: border-box;
+        }
+        img{  
+            width: 100%;
+            vertical-align: top;
+        }
+        .text{
+            text-align: center;
+            text-align-last: center;
+        }
+        
+        @media screen and (min-width:500px){
+            .container{
+            display:flex;
+            justify-content: flex-start;
+            gap: 10px;
+            margin: 40px;
+            flex-wrap: nowrap;
+            flex-direction: row;
+        }
+        }    
+        
+    </style> */
